@@ -1,0 +1,6 @@
+This is 
+the 
+Docker
+file 
+and 
+we r learning the Dockerfile
